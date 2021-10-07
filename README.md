@@ -1,4 +1,4 @@
-# todolist
+# PracticalTask
 
 ## Project setup
 ```
