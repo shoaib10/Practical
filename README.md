@@ -17,3 +17,6 @@ npm run unit
 
 # run all tests
 npm test
+
+# run json server
+Jason-server db.json
